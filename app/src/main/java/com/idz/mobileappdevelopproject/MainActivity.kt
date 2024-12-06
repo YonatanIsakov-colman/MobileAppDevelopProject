@@ -21,8 +21,8 @@ class MainActivity : AppCompatActivity() {
         }
         /*
         TODO: Step 1 - Add Student Button -> DONE!
-        TODO: Step 2 - Navigate to AddStudentActivity
-        TODO: Step 3 - Create AddStudentActivity
+        TODO: Step 2 - Navigate to AddStudentActivity -> DONE!
+        TODO: Step 3 - Create AddStudentActivity -> DONE!
         TODO: Step 4 - Save Student
         */
 
